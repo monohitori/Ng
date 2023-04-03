@@ -7,8 +7,8 @@
 
 ## How to use it?
 
-<i>**[Watch Video Tutorial...](https://youtu.be/ZTSch-kF1xY)**</i>
-
+<h4> HOW TO USE: </h4>    
+<p><a href="https://youtu.be/ZTSch-kF1xY"><img src="https://img.shields.io/badge/How%20to%20Use-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 #### First Step
 1. Press the **fork** button  
